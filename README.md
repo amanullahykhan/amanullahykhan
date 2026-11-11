@@ -9,6 +9,13 @@
 
 ### Full-Stack WordPress Developer · Custom Plugin & Elementor Widget Engineer · Automation Builder
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&height=42&lines=Building+WordPress+Plugins+%26+Elementor+Widgets;Connecting+Workflows+with+n8n+%26+REST+APIs;Exploring+Practical+AI+%26+Automation"
+    alt="Animated text: Building WordPress plugins and Elementor widgets; connecting workflows with n8n and REST APIs; exploring practical AI and automation"
+  />
+</p>
+
 I build practical, maintainable WordPress products — from custom plugins and Elementor widgets to WooCommerce solutions, API integrations, and n8n automations.
 
 <p>
